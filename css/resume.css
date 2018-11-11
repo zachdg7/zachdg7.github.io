@@ -89,6 +89,10 @@ p.lead {
   text-transform: uppercase;
 }
 
+.navbar.navbar-default {
+background: url("img/profile.jpg") repeat top left;
+}
+
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
