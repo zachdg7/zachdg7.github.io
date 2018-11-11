@@ -5,6 +5,11 @@
     letter-spacing: 0.05rem;
     text-transform: uppercase;
   }
+
+  // .nav-img {
+  // background-image: url("../img/profile.jpg");
+  // }
+
   .navbar-toggler {
     &:focus {
       outline-color: lighten($primary, 15%);
@@ -18,12 +23,6 @@
     position: fixed;
     top: 0;
     left: 0;
-
-    // .navbar-custom {
-    //
-    // background: url("../img/profile.jpg") repeat
-    //
-    // }
 
     display: flex;
     flex-direction: column;
