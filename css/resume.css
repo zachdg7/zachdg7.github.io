@@ -88,6 +88,7 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+  /* text-emphasis-color: #BD5D38; */
 }
 
 /* #sideNav .navbar-bg {
@@ -153,6 +154,8 @@ p.lead {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
+    /* text-emphasis-color: #BD5D38; */
+
   }
 }
 
